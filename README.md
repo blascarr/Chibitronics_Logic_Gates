@@ -1,5 +1,11 @@
 # Chibitronics_Logic_Gates
-This repository contains some templates to create circuits with stickers for teenagers and understand the concept of logic gates in a funny way. 
+This repository contains some templates to create circuits with stickers for teenagers and understand the concept of logic gates in a funny way.
+
+You will need only some LED Stickers and copper tape and two 3.3V button battery.
+Print the template you need from <b>LogicGates_templates</b> folder and bend dash lines.
+
+<b>*ATENTION:</b> If you want switch on two or more LEDs stickers, you will need two battery cells to work with.
+
 
 <h2> Simple Gates</h2>
 <ul>
