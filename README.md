@@ -56,4 +56,5 @@ This work is based on <a href="https://chibitronics.com/">Chibitronics</a> idea 
 
 Become a <a href="https://www.patreon.com">patron</a> of <a href="https://www.patreon.com/piperdraws">Piper</a>.
 
+More information in <a href="http://blascarr.com/chibitronics-logic-gates/">Blascarr</a> Webpage.
 <img  src="img/icon_cc.png" width="200"/>
