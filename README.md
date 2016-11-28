@@ -44,7 +44,7 @@ Print the template you need from <b>LogicGates_templates</b> folder and bend das
 <h2> Xtras</h2>
   <ul>
     <li> Tandem Gate</li>
-    <li> Your Own Logic Gate</li>
+    <li> Your Own Logic Gate - Create your own circuit based on logic gates with 6 LED Stickers combinations</li>
   </ul>
 <br>
 <p align="center">
