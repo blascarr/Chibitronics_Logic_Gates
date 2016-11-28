@@ -18,4 +18,4 @@ This repository contains some templates to create circuits with stickers for tee
 </ul>
 
 
-![Creatice Commons Licence](img/icon_cc.png)
+![Creative Commons Licence](img/icon_cc.png)
