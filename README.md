@@ -1,5 +1,5 @@
 # Chibitronics_Logic_Gates
-This repository contains some templates to create circuits with stickers for teenagers and understand the concept of logic gates in a funny way.
+This repository contains some templates to create circuits with stickers for teenagers and understand the concept of logic gates in a funny way. 
 
 <h2> Simple Gates</h2>
 <ul>
@@ -46,5 +46,8 @@ This repository contains some templates to create circuits with stickers for tee
   <img  src="img/YourOwnLogicGate.png" width="200"/>
 </p>
 
+This work is based on <a href="https://chibitronics.com/">Chibitronics</a> idea to create circuits with LED stickers and copper tape on a paper and illustrations art of <a href="http://www.piperthibodeau.com/">Piper Thibodeau </a>.
+
+Become a <a href="https://www.patreon.com">patron</a> of <a href="https://www.patreon.com/piperdraws">Piper</a>.
 
 <img  src="img/icon_cc.png" width="200"/>
